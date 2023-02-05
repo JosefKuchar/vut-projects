@@ -32,3 +32,20 @@
 - IVS - Praktické aspekty vývoje software
   - Úkol - obsahuje kostry, které kvůli licencím nemohu zvěřejnit...
   - [Projekt](https://github.com/JosefKuchar/ivs-project)
+  
+## 3. semestr (19. 9. 2022 – 16. 12. 2022)
+- IAL - Algoritmy
+  - Úkoly - obsahuje kostry, které kvůli licencím nemohu zveřejnit... (není o co stát, implementace toho samého už po milionté)
+- IFJ - Formální jazyky a překladače
+  - [Projekt](https://github.com/JosefKuchar/ifj-project)
+- IMA2 - Matematická analýza 2
+  - Předmět nemá úkoly ani projekty
+- INP - Návrh počítačových systémů
+  - [Projekt 1](https://github.com/JosefKuchar/inp-project1)
+  - [Projekt 2](https://github.com/JosefKuchar/inp-project2)
+- IPT - Pravděpodobnost a statistika
+  - [Úkoly](https://github.com/JosefKuchar/ipt-hw)
+- ISS - Signály a systémy
+  - [Projekt](https://github.com/JosefKuchar/iss-project)
+- IP1 - Projektová praxe 1
+  - Příspěvky do školního neveřejného repozitáře (časem by mohlo být public)
