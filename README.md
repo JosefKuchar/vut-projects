@@ -49,3 +49,18 @@
   - [Projekt](https://github.com/JosefKuchar/iss-project)
 - IP1 - Projektová praxe 1
   - Příspěvky do školního neveřejného repozitáře (časem by mohlo být public)
+
+## 4. semestr (6. 2. 2023 - 5. 5. 2023)
+- IDS - Databázové systémy
+  - [Projekt](https://github.com/JosefKuchar/ids-project)
+- IPK - Počítačové komunikace a sítě
+  - [Projekt 1](https://github.com/JosefKuchar/ipk-project1)
+  - [Projekt 2](https://github.com/JosefKuchar/ipk-project1)
+- IPP - Principy programovacích jazyků a OOP
+  - [Projekt](https://github.com/JosefKuchar/ipp-project)
+- IZU - Základy umělé inteligence
+  - [Úkoly](https://github.com/JosefKuchar/izu-projects)
+- ICP - Seminář C++
+  - [Projekt](https://github.com/JosefKuchar/icp-project)
+- ITY - Typografie a publikování
+  - [Projekty](https://github.com/JosefKuchar/ity-hw)
