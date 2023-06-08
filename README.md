@@ -50,7 +50,7 @@
 - IP1 - Projektová praxe 1
   - Příspěvky do školního neveřejného repozitáře (časem by mohlo být public)
 
-## 4. semestr (6. 2. 2023 - 5. 5. 2023)
+## 4. semestr (6. 2. 2023 – 5. 5. 2023)
 - IDS - Databázové systémy
   - [Projekt](https://github.com/JosefKuchar/ids-project)
 - IPK - Počítačové komunikace a sítě
