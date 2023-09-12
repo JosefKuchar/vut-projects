@@ -55,7 +55,7 @@
   - [Projekt](https://github.com/JosefKuchar/ids-project)
 - IPK - Počítačové komunikace a sítě
   - [Projekt 1](https://github.com/JosefKuchar/ipk-project1)
-  - [Projekt 2](https://github.com/JosefKuchar/ipk-project1)
+  - [Projekt 2](https://github.com/JosefKuchar/ipk-project2)
 - IPP - Principy programovacích jazyků a OOP
   - [Projekt](https://github.com/JosefKuchar/ipp-project)
 - IZU - Základy umělé inteligence
