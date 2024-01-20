@@ -64,3 +64,17 @@
   - [Projekt](https://github.com/JosefKuchar/icp-project)
 - ITY - Typografie a publikování
   - [Projekty](https://github.com/JosefKuchar/ity-hw)
+
+## 5. semestr (18. 9. 2023 – 15. 12. 2023)
+- IIS - Informační systémy
+  - [Projekt](https://github.com/JosefKuchar/iis-project)
+- IMP - Mikroprocesorové a vestavěné systémy
+  - [Projekt](https://github.com/JosefKuchar/imp-project)
+- IMS - Modelování a simulace
+  - [Projekt](https://github.com/JosefKuchar/ims-project)
+- ISA - Síťové aplikace a správa sítí
+  - [Projekt](https://github.com/JosefKuchar/isa-project)
+- ITU - Tvorba uživatelských rozhraní
+  - [Projekt](https://github.com/JosefKuchar/itu-project)
+- IZV - Zpracování a vizualizace dat v prostředí Python
+  - [3 projekty](https://github.com/JosefKuchar/izv-project)
