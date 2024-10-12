@@ -78,3 +78,7 @@
   - [Projekt](https://github.com/JosefKuchar/itu-project)
 - IZV - Zpracování a vizualizace dat v prostředí Python
   - [3 projekty](https://github.com/JosefKuchar/izv-project)
+ 
+## 6. semestr (5. 2. 2024 - 3. 5. 2024)
+- IBT	- Bakalářská práce
+  - [Bakalářská práce](https://github.com/JosefKuchar/text2video)
